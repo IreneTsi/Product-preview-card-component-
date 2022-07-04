@@ -128,16 +128,14 @@ a:link {
 
 @media screen and (max-width: 610px) {
   
-body {
-  height: 352px;
-  }
-  
   .main {
     width: 410px;
     height: auto;
     display: block;
     grid-template-columns: none;
     margin: 30px 50px;
+    padding-right: 200px;
+    padding-left: 100px;
   }
 
   .grid-container {
