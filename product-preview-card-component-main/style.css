@@ -128,9 +128,7 @@ a:link {
 
 @media screen and (max-width: 610px) {
   
-  body {
-  height: 352px;
-  }
+
   
   .main {
     width: 410px;
